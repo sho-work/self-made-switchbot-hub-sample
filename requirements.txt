@@ -1,0 +1,13 @@
+face-recognition
+opencv-python
+numpy
+bleak
+matplotlib
+switchbot-api
+python-switchbot-ble
+fastapi
+uvicorn[standard]
+python-multipart
+websockets
+pydantic
+Pillow
